@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Quick Notes",
+  "version": "1.0",
+  "description": "A simple notepad extension to take quick notes and save them to a file. Copyright Ashish @ 2025",
+  "permissions": ["downloads"],
+  "icons": {
+    "16": "aicon.jpg",
+    "48": "aicon.jpg",
+    "128": "aicon.jpg"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "aicon.jpg"
+  }
+}
